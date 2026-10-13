@@ -31,4 +31,5 @@ The Java implementation and tests are original work for this assignment. The cha
 ## Submission links
 
 - GitHub repository: [Assignment3-Marve-star](https://github.com/Marve-star/Assignment3-Marve-star)
-- Shared Google Drive document heading: **add the URL that links directly to the Assignment 3 heading**
+- Shared Google Drive document heading: https://docs.google.com/document/d/1jkc2Or7s2c4v0h2K7Mklq4YPECrrTzgczABvHYYwrMM/edit?tab=t.j4ebh7yfienc 
+
